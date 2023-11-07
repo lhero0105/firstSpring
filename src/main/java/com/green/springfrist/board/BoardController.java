@@ -11,7 +11,7 @@ import java.util.List;
 @RestController
 // json 리턴
 @RequiredArgsConstructor // 다 주입
-// @ Autowired // 빈등록 한애만 주입
+// @ Autowired // 빈등록 한애만 주입cc
 public class BoardController {
 
     private final BoardService service;
